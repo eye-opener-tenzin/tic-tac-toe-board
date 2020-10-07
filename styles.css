@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+  }
+  
+  .table {
+    width: 320px;
+    height: 320px;
+    margin: auto;
+    margin-top: auto;
+  }
+  
+  .play {
+    color: green;
+  }
+  .row {
+    height: 100px;
+  }
+  
+  .bottom {
+    border-bottom: 10px solid black;
+  }
+  
+  .column {
+    height: 100px;
+    width: 100px;
+    float: left;
+    font-size: 100px;
+  }
+  
+  .right {
+    border-right: 10px solid black;
+  }
+  
